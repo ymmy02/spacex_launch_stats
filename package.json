@@ -4,6 +4,8 @@
   "description": "App that lists SpaceX launch missions",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Kohei Yamamoto",
